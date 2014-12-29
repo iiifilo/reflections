@@ -30,4 +30,5 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    I'll use everytime i will do coding, so that i get used to it as fast as possible.
+    I'll try Git for finding when a bug was introduce or when i want to restore previous version.
+    
